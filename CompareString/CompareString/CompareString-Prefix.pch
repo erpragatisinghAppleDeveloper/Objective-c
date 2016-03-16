@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CompareString' target in the 'CompareString' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

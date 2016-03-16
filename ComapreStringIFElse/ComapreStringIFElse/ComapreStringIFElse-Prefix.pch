@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ComapreStringIFElse' target in the 'ComapreStringIFElse' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
