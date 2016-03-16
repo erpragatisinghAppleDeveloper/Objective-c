@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'M_NSSet' target in the 'M_NSSet' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

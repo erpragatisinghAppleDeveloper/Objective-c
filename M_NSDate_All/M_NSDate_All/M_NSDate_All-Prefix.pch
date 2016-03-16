@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'M_NSDate_All' target in the 'M_NSDate_All' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

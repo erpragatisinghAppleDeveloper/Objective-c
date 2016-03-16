@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'M_Do_While' target in the 'M_Do_While' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

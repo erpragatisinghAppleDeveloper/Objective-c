@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Simple array' target in the 'Simple array' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
